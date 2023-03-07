@@ -1,0 +1,277 @@
+OVERALL,PICK,PLAYER,MLB,POS,BID,TEAM,OWNER
+1,1.1,Kyle Tucker,HOU,CF,38,Ryan Hallam,Fantasy Alarm
+2,1.2,Seiya Suzuki,CHC,LF,10,Brian Feldman,FantasyBaseballAuctioneer.com
+3,1.3,Jose Ramirez,CLE,3B,42,Shelly Verougstraete,NBC Sports Edge
+4,1.4,Dylan Cease,CWS,SP,18,Ryan Hallam,Fantasy Alarm
+5,1.5,Aaron Judge,NYY,RF,44,Doug Anderson,Fantrax
+6,1.6,Juan Soto,SD,RF,39,Shelly Verougstraete,NBC Sports Edge
+7,1.7,Gerrit Cole,NYY,SP,30,Ray Murphy,Baseball HQ
+8,1.8,Paul Goldschmidt,STL,1B,30,Ryan Hallam,Fantasy Alarm
+9,1.9,Jacob DeGrom,TEX,SP,16,Brian Feldman,FantasyBaseballAuctioneer.com
+10,1.1,Josh Hader,SD,RP,16,Doug Anderson,Fantrax
+11,1.11,Pete Alonso,NYM,1B,32,Carlos Marcano,BP (Marcano) - Northan
+12,1.12,Freddie Freeman,LAD,1B,36,Shelly Verougstraete,NBC Sports Edge
+13,2.1,Ronald Acuna Jr.,ATL,CF,47,Craig Mish,Sports Grid
+14,2.2,Willy Adames,MIL,SS,15,Grey Albright,Razzball
+15,2.3,Francisco Lindor,NYM,SS,22,Adam Ronis,Fantasy Alarm
+16,2.4,Michael Harris II,ATL,LF,25,Eric Cross,RotoBaller/FTN
+17,2.5,J.T. Realmuto,PHI,C,23,Ariel Cohen,Beat the Shift Podcast
+18,2.6,Luis Castillo,SEA,SP,23,Nick Pollack,Pitcher List
+19,2.7,Corbin Burnes,MIL,SP,29,Eric Cross,RotoBaller/FTN
+20,2.8,Austin Riley,ATL,3B,30,Adam Ronis,Fantasy Alarm
+21,2.9,Cristian Javier,HOU,SP,20,Doug Anderson,Fantrax
+22,2.1,Adley Rutschman,BAL,C,17,Craig Mish,Sports Grid
+23,2.11,Shane McClanahan,TB,RP,25,Carlos Marcano,BP (Marcano) - Northan
+24,2.12,Tim Anderson,CWS,SS,18,Brian Feldman,FantasyBaseballAuctioneer.com
+25,3.1,Julio Rodriguez,SEA,RF,39,Ryan Hallam,Fantasy Alarm
+26,3.2,Sean Murphy,ATL,C,12,Nick Pollack,Pitcher List
+27,3.3,Daulton Varsho,TOR,RF,20,Adam Ronis,Fantasy Alarm
+28,3.4,Shohei Ohtani,LAA,SP,26,Ariel Cohen,Beat the Shift Podcast
+29,3.5,Mike Trout,LAA,CF,30,Nick Pollack,Pitcher List
+30,3.6,Alek Manoah,TOR,SP,22,Ryan Hallam,Fantasy Alarm
+31,3.7,Max Scherzer,NYM,SP,25,Craig Mish,Sports Grid
+32,3.8,Matt Olson,ATL,1B,25,Nick Pollack,Pitcher List
+33,3.9,Edwin Diaz,NYM,RP,21,Ariel Cohen,Beat the Shift Podcast
+34,3.1,Alejandro Kirk,TOR,C,13,Grey Albright,Razzball
+35,3.11,Alexis Diaz,CIN,RP,9,Grey Albright,Razzball
+36,3.12,Manny Machado,SD,3B,33,Brian Feldman,FantasyBaseballAuctioneer.com
+37,4.1,Jazz Chisholm Jr.,MIA,2B,27,Grey Albright,Razzball
+38,4.2,Matt Chapman,TOR,3B,10,Brian Feldman,FantasyBaseballAuctioneer.com
+39,4.3,Trea Turner,PHI,SS,41,Eric Cross,RotoBaller/FTN
+40,4.4,Rafael Devers,BOS,3B,28,Doug Anderson,Fantrax
+41,4.5,Vladimir Guerrero Jr.,TOR,1B,32,Grey Albright,Razzball
+42,4.6,Alex Verdugo,BOS,CF,9,Grey Albright,Razzball
+43,4.7,Justin Verlander,NYM,SP,22,Ariel Cohen,Beat the Shift Podcast
+44,4.8,Carlos Rodon,NYY,SP,24,Brian Feldman,FantasyBaseballAuctioneer.com
+45,4.9,Tyler Glasnow,TB,SP,8,Doug Anderson,Fantrax
+46,4.1,Danny Jansen,TOR,C,4,Carlos Marcano,BP (Marcano) - Northan
+47,4.11,Yordan Alvarez,HOU,DH,35,Ray Murphy,Baseball HQ
+48,4.12,Jose Abreu,HOU,1B,16,Doug Anderson,Fantrax
+49,5.1,Marcus Semien,TEX,2B,25,Nick Pollack,Pitcher List
+50,5.2,Harrison Bader,NYY,LF,7,Brian Feldman,FantasyBaseballAuctioneer.com
+51,5.3,Taylor Ward,LAA,LF,17,Nick Pollack,Pitcher List
+52,5.4,Spencer Strider,ATL,RP,25,Adam Ronis,Fantasy Alarm
+53,5.5,Randy Arozarena,TB,RF,24,Adam Ronis,Fantasy Alarm
+54,5.6,Vinnie Pasquantino,KC,1B,18,Eric Cross,RotoBaller/FTN
+55,5.7,Aaron Nola,PHI,SP,27,Carlos Marcano,BP (Marcano) - Northan
+56,5.8,Corey Seager,TEX,SS,25,Nick Pollack,Pitcher List
+57,5.9,Jordan Walker,STL,3B,12,Grey Albright,Razzball
+58,5.1,Will Smith,LAD,C,16,Doug Anderson,Fantrax
+59,5.11,Brandon Woodruff,MIL,SP,26,Eric Cross,RotoBaller/FTN
+60,5.12,Max Fried,ATL,SP,20,Ariel Cohen,Beat the Shift Podcast
+61,6.1,Kyle Schwarber,PHI,LF,22,Carlos Marcano,BP (Marcano) - Northan
+62,6.2,Bo Bichette,TOR,SS,33,Adam Ronis,Fantasy Alarm
+63,6.3,Fernando Tatis Jr.,SD,SS,26,Grey Albright,Razzball
+64,6.4,Bobby Witt Jr.,KC,SS,29,Craig Mish,Sports Grid
+65,6.5,Mookie Betts,LAD,RF,33,Ray Murphy,Baseball HQ
+66,6.6,Jake McCarthy,ARI,CF,14,Ariel Cohen,Beat the Shift Podcast
+67,6.7,Shane Bieber,CLE,SP,20,Ryan Hallam,Fantasy Alarm
+68,6.8,Cedric Mullins II,BAL,CF,18,Doug Anderson,Fantrax
+69,6.9,Emmanuel Clase,CLE,RP,18,Adam Ronis,Fantasy Alarm
+70,6.1,Ryan Helsley,STL,RP,14,Grey Albright,Razzball
+71,6.11,Wander Franco,TB,SS,21,Carlos Marcano,BP (Marcano) - Northan
+72,6.12,Teoscar Hernandez,SEA,CF,20,Nick Pollack,Pitcher List
+73,7.1,Alex Bregman,HOU,3B,16,Ryan Hallam,Fantasy Alarm
+74,7.2,Luis Robert,CWS,CF,19,Eric Cross,RotoBaller/FTN
+75,7.3,Nolan Arenado,STL,3B,24,Ray Murphy,Baseball HQ
+76,7.4,Devin Williams,MIL,RP,13,Carlos Marcano,BP (Marcano) - Northan
+77,7.5,Yu Darvish,SD,SP,19,Grey Albright,Razzball
+78,7.6,Triston McKenzie,CLE,SP,16,Shelly Verougstraete,NBC Sports Edge
+79,7.7,Gleyber Torres,NYY,2B,12,Eric Cross,RotoBaller/FTN
+80,7.8,Byron Buxton,MIN,CF,13,Craig Mish,Sports Grid
+81,7.9,Sandy Alcantara,MIA,SP,24,Eric Cross,RotoBaller/FTN
+82,7.1,Jordan Romano,TOR,RP,13,Ray Murphy,Baseball HQ
+83,7.11,Kevin Gausman,TOR,SP,22,Shelly Verougstraete,NBC Sports Edge
+84,7.12,Zack Wheeler,PHI,SP,20,Nick Pollack,Pitcher List
+85,8.1,Jose Altuve,HOU,2B,24,Ariel Cohen,Beat the Shift Podcast
+86,8.2,Joe Musgrove,SD,SP,12,Brian Feldman,FantasyBaseballAuctioneer.com
+87,8.3,Ozzie Albies,ATL,2B,18,Adam Ronis,Fantasy Alarm
+88,8.4,Raisel Iglesias,ATL,RP,14,Brian Feldman,FantasyBaseballAuctioneer.com
+89,8.5,Starling Marte,NYM,CF,14,Brian Feldman,FantasyBaseballAuctioneer.com
+90,8.6,Adolis Garcia,TEX,RF,15,Ray Murphy,Baseball HQ
+91,8.7,Tyler O'Neill,STL,RF,16,Ariel Cohen,Beat the Shift Podcast
+92,8.8,Salvador Perez,KC,C,15,Ray Murphy,Baseball HQ
+93,8.9,Robbie Ray,SEA,SP,15,Nick Pollack,Pitcher List
+94,8.1,George Springer,TOR,RF,19,Brian Feldman,FantasyBaseballAuctioneer.com
+95,8.11,Corbin Carroll,ARI,CF,23,Shelly Verougstraete,NBC Sports Edge
+96,8.12,Christian Walker,ARI,1B,8,Ariel Cohen,Beat the Shift Podcast
+97,9.1,Clayton Kershaw,LAD,SP,10,Ray Murphy,Baseball HQ
+98,9.2,Gunnar Henderson,BAL,3B,14,Craig Mish,Sports Grid
+99,9.3,Oneil Cruz,PIT,SS,23,Carlos Marcano,BP (Marcano) - Northan
+100,9.4,Xander Bogaerts,SD,SS,12,Ariel Cohen,Beat the Shift Podcast
+101,9.5,Zac Gallen,ARI,SP,20,Doug Anderson,Fantrax
+102,9.6,Lance Lynn,CWS,SP,10,Grey Albright,Razzball
+103,9.7,Andres Gimenez,CLE,2B,12,Ryan Hallam,Fantasy Alarm
+104,9.8,Tommy Edman,STL,2B,13,Ryan Hallam,Fantasy Alarm
+105,9.9,Marcus Stroman,CHC,SP,2,Doug Anderson,Fantrax
+106,9.1,Jorge Polanco,MIN,2B,8,Brian Feldman,FantasyBaseballAuctioneer.com
+107,9.11,Rhys Hoskins,PHI,1B,10,Adam Ronis,Fantasy Alarm
+108,9.12,Nate Lowe,TEX,1B,13,Brian Feldman,FantasyBaseballAuctioneer.com
+109,10.1,Brandon Lowe,TB,2B,7,Ray Murphy,Baseball HQ
+110,10.2,Julio Urias,LAD,SP,16,Carlos Marcano,BP (Marcano) - Northan
+111,10.3,Whit Merrifield,TOR,2B,3,Craig Mish,Sports Grid
+112,10.4,Ryan Pressly,HOU,RP,11,Ryan Hallam,Fantasy Alarm
+113,10.5,Nestor Cortes Jr.,NYY,RP,10,Ryan Hallam,Fantasy Alarm
+114,10.6,Tyler Stephenson,CIN,C,9,Craig Mish,Sports Grid
+115,10.7,Felix Bautista,BAL,RP,9,Eric Cross,RotoBaller/FTN
+116,10.8,Carlos Correa,MIN,SS,10,Shelly Verougstraete,NBC Sports Edge
+117,10.9,Pete Fairbanks,TB,RP,7,Shelly Verougstraete,NBC Sports Edge
+118,10.1,Framber Valdez,HOU,SP,17,Grey Albright,Razzball
+119,10.11,Rowdy Tellez,MIL,1B,10,Carlos Marcano,BP (Marcano) - Northan
+120,10.12,Christian Yelich,MIL,LF,10,Nick Pollack,Pitcher List
+121,11.1,Dansby Swanson,CHC,SS,15,Doug Anderson,Fantrax
+122,11.2,Chris Sale,BOS,SP,10,Ray Murphy,Baseball HQ
+123,11.3,George Kirby,SEA,SP,15,Shelly Verougstraete,NBC Sports Edge
+124,11.4,Willson Contreras,STL,C,13,Carlos Marcano,BP (Marcano) - Northan
+125,11.5,Logan Webb,SF,SP,9,Craig Mish,Sports Grid
+126,11.6,Lucas Giolito,CWS,SP,7,Craig Mish,Sports Grid
+127,11.7,Giancarlo Stanton,NYY,DH,11,Brian Feldman,FantasyBaseballAuctioneer.com
+128,11.8,Anthony Santander,BAL,CF,8,Ariel Cohen,Beat the Shift Podcast
+129,11.9,Nico Hoerner,CHC,SS,10,Craig Mish,Sports Grid
+130,11.1,Eloy Jimenez,CWS,RF,15,Adam Ronis,Fantasy Alarm
+131,11.11,Bryan Reynolds,PIT,CF,16,Eric Cross,RotoBaller/FTN
+132,11.12,Anthony Rizzo,NYY,1B,9,Grey Albright,Razzball
+133,12.1,Jordan Montgomery,STL,SP,7,Grey Albright,Razzball
+134,12.2,Nick Castellanos,PHI,RF,12,Ray Murphy,Baseball HQ
+135,12.3,Jeffrey Springs,TB,RP,9,Craig Mish,Sports Grid
+136,12.4,Kenley Jansen,BOS,RP,7,Brian Feldman,FantasyBaseballAuctioneer.com
+137,12.5,Logan Gilbert,SEA,SP,7,Ryan Hallam,Fantasy Alarm
+138,12.6,Blake Snell,SD,SP,10,Doug Anderson,Fantrax
+139,12.7,Kris Bryant,COL,LF,10,Craig Mish,Sports Grid
+140,12.8,Steven Kwan,CLE,CF,11,Carlos Marcano,BP (Marcano) - Northan
+141,12.9,Ramon Laureano,OAK,CF,4,Doug Anderson,Fantrax
+142,12.1,MJ Melendez,KC,C,9,Shelly Verougstraete,NBC Sports Edge
+143,12.11,Luis Severino,NYY,SP,12,Ariel Cohen,Beat the Shift Podcast
+144,12.12,Ian Happ,CHC,CF,6,Grey Albright,Razzball
+145,13.1,Hunter Renfroe,LAA,RF,7,Grey Albright,Razzball
+146,13.2,Amed Rosario,CLE,SS,11,Brian Feldman,FantasyBaseballAuctioneer.com
+147,13.3,William Contreras,MIL,C,9,Brian Feldman,FantasyBaseballAuctioneer.com
+148,13.4,Cody Bellinger,CHC,CF,4,Ray Murphy,Baseball HQ
+149,13.5,Charlie Morton,ATL,SP,8,Adam Ronis,Fantasy Alarm
+150,13.6,Clay Holmes,NYY,RP,8,Nick Pollack,Pitcher List
+151,13.7,Kodai Senga,NYM,SP,6,Grey Albright,Razzball
+152,13.8,Jose Miranda,MIN,1B,6,Nick Pollack,Pitcher List
+153,13.9,J.D. Martinez,LAD,DH,3,Shelly Verougstraete,NBC Sports Edge
+154,13.1,Kyle Wright,ATL,SP,7,Eric Cross,RotoBaller/FTN
+155,13.11,Ty France,SEA,1B,4,Nick Pollack,Pitcher List
+156,13.12,Hunter Greene,CIN,SP,11,Doug Anderson,Fantrax
+157,14.1,David Bednar,PIT,RP,7,Nick Pollack,Pitcher List
+158,14.2,Lars Nootbaar,STL,RF,6,Craig Mish,Sports Grid
+159,14.3,Daniel Bard,COL,RP,5,Ryan Hallam,Fantasy Alarm
+160,14.4,Brandon Drury,LAA,3B,4,Shelly Verougstraete,NBC Sports Edge
+161,14.5,Nick Lodolo,CIN,SP,8,Adam Ronis,Fantasy Alarm
+162,14.6,Andrew Vaughn,CWS,LF,7,Grey Albright,Razzball
+163,14.7,Bryce Harper,PHI,RF,5,Carlos Marcano,BP (Marcano) - Northan
+164,14.8,Dustin May,LAD,SP,5,Eric Cross,RotoBaller/FTN
+165,14.9,Max Muncy,LAD,3B,10,Carlos Marcano,BP (Marcano) - Northan
+166,14.1,C.J. Cron,COL,1B,11,Craig Mish,Sports Grid
+167,14.11,Camilo Doval,SF,RP,8,Craig Mish,Sports Grid
+168,14.12,Andrew Heaney,TEX,SP,3,Carlos Marcano,BP (Marcano) - Northan
+169,15.1,Joey Wendle,MIA,3B,1,Ray Murphy,Baseball HQ
+170,15.2,Eugenio Suarez,SEA,3B,5,Ray Murphy,Baseball HQ
+171,15.3,Vaughn Grissom,ATL,2B,9,Ray Murphy,Baseball HQ
+172,15.4,Cal Raleigh,SEA,C,6,Shelly Verougstraete,NBC Sports Edge
+173,15.5,Jeff McNeil,NYM,2B,4,Ariel Cohen,Beat the Shift Podcast
+174,15.6,Kyle Bradish,BAL,SP,3,Shelly Verougstraete,NBC Sports Edge
+175,15.7,Jeremy Pena,HOU,SS,7,Doug Anderson,Fantrax
+176,15.8,Jonathan India,CIN,2B,6,Doug Anderson,Fantrax
+177,15.9,Ke'Bryan Hayes,PIT,3B,6,Doug Anderson,Fantrax
+178,15.1,Ryan McMahon,COL,3B,6,Ariel Cohen,Beat the Shift Podcast
+179,15.11,Brandon Nimmo,NYM,CF,9,Ariel Cohen,Beat the Shift Podcast
+180,15.12,Ketel Marte,ARI,2B,4,Shelly Verougstraete,NBC Sports Edge
+181,16.1,Keibert Ruiz,WSH,C,4,Ryan Hallam,Fantasy Alarm
+182,16.2,Mitch Haniger,SF,LF,5,Ariel Cohen,Beat the Shift Podcast
+183,16.3,Anthony Rendon,LAA,3B,3,Craig Mish,Sports Grid
+184,16.4,Scott Barlow,KC,RP,4,Craig Mish,Sports Grid
+185,16.5,Michael Conforto,SF,LF,2,Doug Anderson,Fantrax
+186,16.6,Adam Duvall,BOS,LF,1,Shelly Verougstraete,NBC Sports Edge
+187,16.7,Brady Singer,KC,SP,7,Grey Albright,Razzball
+188,16.8,Gabriel Moreno,ARI,C,6,Eric Cross,RotoBaller/FTN
+189,16.9,Trevor Rogers,MIA,RP,5,Craig Mish,Sports Grid
+190,16.1,Jhoan Duran,MIN,SP,6,Ariel Cohen,Beat the Shift Podcast
+191,16.11,Jesus Luzardo,MIA,SP,6,Adam Ronis,Fantasy Alarm
+192,16.12,Javier Baez,DET,SS,3,Nick Pollack,Pitcher List
+193,17.1,CJ Abrams,WSH,SS,2,Ray Murphy,Baseball HQ
+194,17.2,Justin Turner,BOS,3B,2,Eric Cross,RotoBaller/FTN
+195,17.3,Luis Garcia,HOU,RP,8,Brian Feldman,FantasyBaseballAuctioneer.com
+196,17.4,Tony Gonsolin,LAD,SP,4,Carlos Marcano,BP (Marcano) - Northan
+197,17.5,Riley Greene,DET,CF,5,Shelly Verougstraete,NBC Sports Edge
+198,17.6,Chris Bassitt,TOR,SP,4,Ariel Cohen,Beat the Shift Podcast
+199,17.7,Ryan Mountcastle,BAL,1B,6,Ariel Cohen,Beat the Shift Podcast
+200,17.8,Thairo Estrada,SF,2B,5,Eric Cross,RotoBaller/FTN
+201,17.9,Wil Myers,CIN,LF,3,Craig Mish,Sports Grid
+202,17.1,Drew Rasmussen,TB,SP,8,Ariel Cohen,Beat the Shift Podcast
+203,17.11,Alec Bohm,PHI,3B,5,Carlos Marcano,BP (Marcano) - Northan
+204,17.12,Travis d'Arnaud,ATL,C,2,Ray Murphy,Baseball HQ
+205,18.1,Josh Bell,CLE,1B,6,Ray Murphy,Baseball HQ
+206,18.2,Josh Naylor,CLE,1B,2,Shelly Verougstraete,NBC Sports Edge
+207,18.3,Carlos Estevez,LAA,RP,5,Craig Mish,Sports Grid
+208,18.4,Nathan Eovaldi,TEX,SP,3,Ray Murphy,Baseball HQ
+209,18.5,Bryan De La Cruz,MIA,RF,3,Carlos Marcano,BP (Marcano) - Northan
+210,18.6,Hunter Brown,HOU,RP,4,Adam Ronis,Fantasy Alarm
+211,18.7,Pablo Lopez,MIN,SP,4,Ray Murphy,Baseball HQ
+212,18.8,Andres Munoz,SEA,RP,4,Ariel Cohen,Beat the Shift Podcast
+213,18.9,Grayson Rodriguez,BAL,SP,6,Doug Anderson,Fantrax
+214,18.1,Jonah Heim,TEX,C,2,Grey Albright,Razzball
+215,18.11,Patrick Sandoval,LAA,SP,3,Carlos Marcano,BP (Marcano) - Northan
+216,18.12,Eric Haase,DET,C,2,Brian Feldman,FantasyBaseballAuctioneer.com
+217,19.1,Reid Detmers,LAA,SP,5,Ray Murphy,Baseball HQ
+218,19.2,Freddy Peralta,MIL,SP,8,Brian Feldman,FantasyBaseballAuctioneer.com
+219,19.3,Yasmani Grandal,CWS,C,1,Craig Mish,Sports Grid
+220,19.4,Christian Vazquez,MIN,C,2,Ryan Hallam,Fantasy Alarm
+221,19.5,Jake Cronenworth,SD,2B,3,Eric Cross,RotoBaller/FTN
+222,19.6,Joe Ryan,MIN,SP,10,Craig Mish,Sports Grid
+223,19.7,Ezequiel Tovar,COL,SS,3,Grey Albright,Razzball
+224,19.8,Masataka Yoshida,BOS,LF,4,Carlos Marcano,BP (Marcano) - Northan
+225,19.9,Elias Diaz,COL,C,1,Doug Anderson,Fantrax
+226,19.1,Paul Sewald,SEA,RP,7,Ray Murphy,Baseball HQ
+227,19.11,Tyler Mahle,MIN,SP,4,Adam Ronis,Fantasy Alarm
+228,19.12,Christian Bethancourt,TB,C,1,Nick Pollack,Pitcher List
+229,20.1,Jorge Lopez,MIN,SP,8,Ray Murphy,Baseball HQ
+230,20.2,Andrew Benintendi,CWS,LF,3,Shelly Verougstraete,NBC Sports Edge
+231,20.3,Jose Trevino,NYY,C,1,Adam Ronis,Fantasy Alarm
+232,20.4,Seth Brown,OAK,LF,3,Ryan Hallam,Fantasy Alarm
+233,20.5,Alex Lange,DET,SP,3,Shelly Verougstraete,NBC Sports Edge
+234,20.6,Oscar Gonzalez,CLE,RF,3,Eric Cross,RotoBaller/FTN
+235,20.7,Esteury Ruiz,OAK,LF,4,Eric Cross,RotoBaller/FTN
+236,20.8,Miguel Vargas,LAD,1B,2,Doug Anderson,Fantrax
+237,20.9,Logan O'Hoppe,LAA,C,2,Eric Cross,RotoBaller/FTN
+238,20.1,Jose Leclerc,TEX,RP,2,Carlos Marcano,BP (Marcano) - Northan
+239,20.11,Joey Meneses,WSH,1B,2,Ryan Hallam,Fantasy Alarm
+240,20.12,Sonny Gray,MIN,SP,4,Brian Feldman,FantasyBaseballAuctioneer.com
+241,21.1,Evan Phillips,LAD,RP,1,Adam Ronis,Fantasy Alarm
+242,21.2,Jack Flaherty,STL,SP,2,Shelly Verougstraete,NBC Sports Edge
+243,21.3,Jon Gray,TEX,SP,2,Adam Ronis,Fantasy Alarm
+244,21.4,Alex Cobb,SF,SP,1,Grey Albright,Razzball
+245,21.5,Edward Cabrera,MIA,RP,2,Shelly Verougstraete,NBC Sports Edge
+246,21.6,Garrett Whitlock,BOS,SP,2,Nick Pollack,Pitcher List
+247,21.7,Jason Adam,TB,RP,1,Ariel Cohen,Beat the Shift Podcast
+248,21.8,Manuel Margot,TB,CF,1,Carlos Marcano,BP (Marcano) - Northan
+249,21.9,Josh Jung,TEX,3B,2,Ryan Hallam,Fantasy Alarm
+250,21.1,Aaron Civale,CLE,SP,1,Brian Feldman,FantasyBaseballAuctioneer.com
+251,21.11,Triston Casas,BOS,1B,1,Adam Ronis,Fantasy Alarm
+252,21.12,Jesse Winker,MIL,LF,1,Ryan Hallam,Fantasy Alarm
+253,22.1,Hayden Wesneski,CHC,RP,3,Shelly Verougstraete,NBC Sports Edge
+254,22.2,Jarred Kelenic,SEA,CF,2,Grey Albright,Razzball
+255,22.3,Justin Steele,CHC,SP,1,Eric Cross,RotoBaller/FTN
+256,22.4,Oscar Colas,CWS,LF,2,Adam Ronis,Fantasy Alarm
+257,22.5,Joey Bart,SF,C,1,Ariel Cohen,Beat the Shift Podcast
+258,22.6,Mitch Keller,PIT,SP,1,Carlos Marcano,BP (Marcano) - Northan
+259,22.7,Kenta Maeda,MIN,SP,1,Nick Pollack,Pitcher List
+260,22.8,Luis Arraez,MIA,1B,1,Brian Feldman,FantasyBaseballAuctioneer.com
+261,22.9,Lourdes Gurriel Jr.,ARI,LF,3,Adam Ronis,Fantasy Alarm
+262,22.1,Merrill Kelly,ARI,SP,1,Ryan Hallam,Fantasy Alarm
+263,22.11,Jose Berrios,TOR,SP,1,Eric Cross,RotoBaller/FTN
+264,22.12,Austin Meadows,DET,LF,3,Adam Ronis,Fantasy Alarm
+265,23.1,Michael Kopech,CWS,SP,3,Nick Pollack,Pitcher List
+266,23.2,Jean Segura,MIA,2B,2,Adam Ronis,Fantasy Alarm
+267,23.3,Kolten Wong,SEA,2B,2,Ryan Hallam,Fantasy Alarm
+268,23.4,Zach Eflin,TB,SP,1,Eric Cross,RotoBaller/FTN
+269,23.5,Trey Mancini,CHC,1B,1,Doug Anderson,Fantrax
+270,23.6,Sean Manaea,SF,SP,1,Nick Pollack,Pitcher List
+271,23.7,Dylan Floro,MIA,RP,1,Ryan Hallam,Fantasy Alarm
+272,23.8,Oswald Peraza,NYY,SS,1,Eric Cross,RotoBaller/FTN
+273,23.9,Seranthony Dominguez,PHI,RP,1,Doug Anderson,Fantrax
+274,23.1,Avisail Garcia,MIA,RF,1,Nick Pollack,Pitcher List
+275,23.11,Randal Grichuk,COL,CF,1,Ryan Hallam,Fantasy Alarm
+276,23.12,Spencer Torkelson,DET,1B,1,Nick Pollack,Pitcher List
